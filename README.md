@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danila Korabelnikov</h1>
 <h3 align="center">A beggining pentester and Python web developer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w1ns3" alt="w1ns3" /></a> </p>
 
 - 🔭 I’m currently working on **my own cybersecurity start-up**
 
