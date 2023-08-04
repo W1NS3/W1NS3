@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danila Korabelnikov</h1>
 <h3 align="center">A beggining pentester and Python web developer from Russia</h3>
 
+![wallpaper](https://github.com/W1NS3/W1NS3/blob/main/wallpaper.jpg?raw=true)
 
 - 🔭 I’m currently working on **my own cybersecurity start-up**
 
