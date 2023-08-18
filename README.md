@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Telegram @esniw**
 
-- ⚡ Fun fact **i love anime :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
