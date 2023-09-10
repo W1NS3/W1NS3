@@ -32,5 +32,9 @@
  <img width="32%" src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFTime">
 </a>
 </br>
+<a href="https://app.hackthebox.com/profile/overview">
+ <img width="32%" src="https://app.hackthebox.com/images/logos/logo-htb.svg" alt="HackTheBox">
+</a>
+</br>
 
 
