@@ -29,11 +29,11 @@
 </a>
 </br>
 <a href="https://ctftime.org/user/150427">
- <img width="100%" src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFTime">
+ <img width="70%" src="https://ctftime.org/static/images/ct/logo.svg" alt="CTFTime">
 </a>
 </br>
 <a href="https://app.hackthebox.com/profile/1271346">
- <img width="100%" src="https://app.hackthebox.com/images/logos/logo-htb.svg" alt="HackTheBox">
+ <img width="70%" src="https://app.hackthebox.com/images/logos/logo-htb.svg" alt="HackTheBox">
 </a>
 </br>
 
